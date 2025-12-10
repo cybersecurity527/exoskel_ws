@@ -1,6 +1,0 @@
-Invoking command in '/root/ros_ws/build/exo_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /root/ros_ws/src/exo_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/ros_ws/install/exo_control
-Invoked command in '/root/ros_ws/build/exo_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /root/ros_ws/src/exo_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/ros_ws/install/exo_control
-Invoking command in '/root/ros_ws/build/exo_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/build/exo_control -- -j4 -l4
-Invoked command in '/root/ros_ws/build/exo_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/ros_ws/build/exo_control -- -j4 -l4
-Invoking command in '/root/ros_ws/build/exo_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/build/exo_control
-Invoked command in '/root/ros_ws/build/exo_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/ros_ws/build/exo_control
