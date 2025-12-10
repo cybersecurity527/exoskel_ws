@@ -1,0 +1,1 @@
+/root/ros_ws/build/exo_control/ament_cmake_core/exo_controlConfig.cmake

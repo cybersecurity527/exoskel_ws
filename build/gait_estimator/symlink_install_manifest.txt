@@ -1,0 +1,16 @@
+/root/ros_ws/install/gait_estimator/lib/gait_estimator/gait_estimator
+/root/ros_ws/install/gait_estimator/share/ament_index/resource_index/package_run_dependencies/gait_estimator
+/root/ros_ws/install/gait_estimator/share/ament_index/resource_index/parent_prefix_path/gait_estimator
+/root/ros_ws/install/gait_estimator/share/gait_estimator/environment/ament_prefix_path.sh
+/root/ros_ws/install/gait_estimator/share/gait_estimator/environment/ament_prefix_path.dsv
+/root/ros_ws/install/gait_estimator/share/gait_estimator/environment/path.sh
+/root/ros_ws/install/gait_estimator/share/gait_estimator/environment/path.dsv
+/root/ros_ws/install/gait_estimator/share/gait_estimator/local_setup.bash
+/root/ros_ws/install/gait_estimator/share/gait_estimator/local_setup.sh
+/root/ros_ws/install/gait_estimator/share/gait_estimator/local_setup.zsh
+/root/ros_ws/install/gait_estimator/share/gait_estimator/local_setup.dsv
+/root/ros_ws/install/gait_estimator/share/gait_estimator/package.dsv
+/root/ros_ws/install/gait_estimator/share/ament_index/resource_index/packages/gait_estimator
+/root/ros_ws/install/gait_estimator/share/gait_estimator/cmake/gait_estimatorConfig.cmake
+/root/ros_ws/install/gait_estimator/share/gait_estimator/cmake/gait_estimatorConfig-version.cmake
+/root/ros_ws/install/gait_estimator/share/gait_estimator/package.xml

@@ -1,0 +1,4 @@
+source;share/gait_estimator/local_setup.bash
+source;share/gait_estimator/local_setup.dsv
+source;share/gait_estimator/local_setup.sh
+source;share/gait_estimator/local_setup.zsh
